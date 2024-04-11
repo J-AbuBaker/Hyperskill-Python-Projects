@@ -1,5 +1,3 @@
-Thank you for providing the link to Stage 4 of the Last Pencil project. Below is the updated README file reflecting the inclusion of Stage 4:
-
 # Last Pencil Game
 
 Welcome to the Last Pencil project from Hyperskill's Python Core course! This game is a simple yet engaging strategy game that you can play with any number of pencils. The objective is to force your opponent to take the last pencil. The game follows some basic rules:
